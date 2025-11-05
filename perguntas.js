@@ -1,5 +1,5 @@
 criaCartao(
-    'Matematica2',
+    'Matematica li',
     'O que é HTML?',
     'É o código padrão usado para criar a estrutura e o conteúdo de páginas da web',
 )
@@ -32,63 +32,58 @@ criaCartao(
 
 criaCartao(
     'Lingua Inglesa',
-    'como e fala ?',
-    'O maior continetente do mundo é a Ásia'
+    'como que fala obrigao em ingles ?',
+    'obrigado em ingles é thanks '
 )
 
 
 criaCartao(
-    'Geografia',
-    'Qual é o maior continente do mundo?',
-    'O maior continetente do mundo é a Ásia'
+    'Biologia 1',
+    'Quem é Mendel?',
+    'monge, biólogo e austríaco, conhecido como o "pai da genética" por ter descoberto as leis da hereditariedade através de seus experimentos com ervilhas'
 )
 
 
 criaCartao(
-    'Geografia',
-    'Qual é o maior continente do mundo?',
-    'O maior continetente do mundo é a Ásia'
+    'Quimica',
+    'Quais são as partículas que formam um átomo?',
+    ' Prótons (carga positiva), elétrons (carga negativa) e nêutrons (carga neutra). '
 )
 
 
 criaCartao(
-    'Geografia',
-    'Qual é o maior continente do mundo?',
-    'O maior continetente do mundo é a Ásia'
+    'biologia',
+    'Qual é a maior espécie de tubarão do mundo?',
+    'O tubarão-baleia'
+)
+
+
+criaCartao (
+    'Sociologia',
+    'Quais são as áreas das Ciências Sociais?',
+    'Sociologia, Antropologia e Ciência Política'
+)
+
+criaCartao(
+    'fisica 1',
+    'para que serve a placa arduino uno?',
+    'é uma placa de microcontrolador de código aberto usada para prototipagem eletrônica em projetos que vão do simples ao complexo.'
 )
 
 
 criaCartao(
-    'Geografia',
-    'Qual é o maior continente do mundo?',
-    'O maior continetente do mundo é a Ásia'
+    'Projeto de vida',
+    'qual é o significado do meu nome?',
+    'graciosa e serena, ou mulher guerreira'
 )
 
 
 criaCartao(
-    'Geografia',
-    'Qual é o maior continente do mundo?',
-    'O maior continetente do mundo é a Ásia'
+    'educação financeira',
+    'Você gasta mais do que ganha?',
+    'As vezes eu gasto mais do que ganho, mas a maioria das vezes eu tenho conciencia. '
 )
 
 
-criaCartao(
-    'Geografia',
-    'Qual é o maior continente do mundo?',
-    'O maior continetente do mundo é a Ásia'
-)
 
-
-criaCartao(
-    'Geografia',
-    'Qual é o maior continente do mundo?',
-    'O maior continetente do mundo é a Ásia'
-)
-
-
-criaCartao(
-    'Geografia',
-    'Qual é o maior continente do mundo?',
-    'O maior continetente do mundo é a Ásia'
-)
 
